@@ -1,0 +1,5 @@
+{
+  "name": "Simplex Solver Pro",
+  "description": "Calculadora completa de Programación Lineal que soporta los métodos Simplex, Gran M y Dos Fases con visualización paso a paso de las iteraciones.",
+  "requestFramePermissions": []
+}
